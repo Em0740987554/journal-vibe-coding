@@ -15,3 +15,7 @@ Etudiante en design, j'aime les interfaces sobres.
 - **GitHub** : le partage en ligne
   
 - **Markdown** : ecrire du texte mis en forme
+
+## Ma page 
+
+[voir ma page en ligne](https://www.linkedin.com/in/emma-gregoire/)
